@@ -70,6 +70,10 @@ for (k, v) in profile {
 }
 ```
 
+## 特別補充
+
+* Ruby 有個東西叫 Symbol
+
 ## 練習題
 1. 給定一 Hash，輸出有最大 value 的 key
 2. 給定一 Hash，輸出 value 是偶數的 key
