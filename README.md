@@ -1,21 +1,14 @@
 # Programming Basic
 
-## 基本元素: 輸入、計算、輸出
+## 簡介
 
-## 控制流程
+### 高見龍
 
-## 迴圈結構
+* [五倍紅寶石](https://5xruby.tw/) 紅寶石鑑定商
 
-## 資料結構: 陣列 Array
+### 聯絡
 
-## 資料結構: 雜湊 Hash
-
-## 函式 Function
-
-## 資料結構: 物件 Object
-
-## 檔案處理
-
-## 應用
-
-contact: eddie @ 5xruby.tw
+* Blog: http://kaochenlong.com/
+* Twitter: https://twitter.com/eddiekao
+* Facebook: https://www.facebook.com/eddiekao
+* contact: eddie @ 5xruby.tw
