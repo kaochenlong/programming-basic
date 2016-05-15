@@ -1,5 +1,7 @@
 # Programming Basic
 
+Reference: https://ihower.hackpad.com/Programming-Basics-R74JqaVHmnF
+
 ## 簡介
 
 ### 高見龍
