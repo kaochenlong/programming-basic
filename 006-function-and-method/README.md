@@ -52,9 +52,16 @@ func bmiCalculator(height: Double, weight: Double) -> Double {
 print(bmiCalculator(1.72, weight: 70))    # 身高 1.72 公尺，體重 70 公斤
 ```
 
+## 引入其它程式
+
+* Ruby 使用 `require` 或 `load` 來載入其它程式檔案
+* Swift 使用 `import` 來載入其它程式檔案
+
 ## 特別補充
 
 * Ruby 有種東西叫 Block
+* 有大括號 `{ ... }` 與 `do ... end` 兩種型式，但有微妙的差別([參考資料](http://kaochenlong.com/2011/06/03/do-end-vs-braces/))
+* 在 Ruby 裡面非常常用，一定要理解使用方式!!
 
 ## 練習題
 1. 實作一個 function 可以輸入陣列，回傳總和
