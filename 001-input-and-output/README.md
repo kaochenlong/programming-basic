@@ -112,7 +112,7 @@ puts "你好, #{name}"
 // Swift
 print("請輸入你的名字：")
 var name = readLine()
-print("你好, \(n!)")
+print("你好, \(name!)")
 ```
 
 ## 資料型別 (Data Type)
