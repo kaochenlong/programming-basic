@@ -109,8 +109,8 @@ extension String {
 
 ## 特別補充 A
 
+* 繼承有時沒辦法解決所有的需求...
 * Ruby 有種東西叫 Module 模組
-* 繼承沒辦法解決所有問題
 
 ```ruby
 module Fly

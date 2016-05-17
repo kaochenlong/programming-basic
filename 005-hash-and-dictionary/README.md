@@ -72,7 +72,7 @@ for (k, v) in profile {
 
 ## 特別補充
 
-* Ruby 有個東西叫 Symbol
+* Ruby 有個東西叫 Symbol ([參考資料](http://kaochenlong.com/2016/04/25/string-and-symbol/))
 
 ## 練習題
 1. 給定一 Hash，輸出有最大 value 的 key
