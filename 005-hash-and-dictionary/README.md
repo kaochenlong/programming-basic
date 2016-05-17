@@ -75,6 +75,8 @@ for (k, v) in profile {
 * Ruby 有個東西叫 Symbol ([參考資料](http://kaochenlong.com/2016/04/25/string-and-symbol/))
 
 ## 練習題
+
 1. 給定一 Hash，輸出有最大 value 的 key
 2. 給定一 Hash，輸出 value 是偶數的 key
-3. 陣列 a = [1, 2, 3, 1, 2, 1, 3, 1, 2, 3, 4, 5, 6]，請計算在陣列 a 中，每個數字出現的次數。
+3. 陣列 [1, 2, 3, 1, 2, 1, 3, 1, 2, 3, 4, 5, 6]，請計算在陣列中，每個數字出現的次數。
+

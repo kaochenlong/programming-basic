@@ -14,8 +14,8 @@ friends = ["eddie", "ken", "john", 1, 2, 3]
 
 ```swift
 // Swift
-list = [1, 2, 3, 4, 5]
-friends = ["eddie", "ken", "john", 1, 2, 3]
+var list = [1, 2, 3, 4, 5]
+var friends = ["eddie", "ken", "john", 1, 2, 3]
 ```
 
 ## 存取

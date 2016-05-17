@@ -17,7 +17,7 @@ for (var i = 0; i < 10; i++) {
 
 ```ruby
 # Ruby
-for i in [*1..5] do
+for i in [*1..5]
   puts "hello, #{i}"
 end
 
