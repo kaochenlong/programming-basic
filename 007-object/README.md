@@ -61,7 +61,7 @@ kitty.sleep()          // Cat 類別本身並沒有定義 sleep，但可正常�
 class Cat
   def initialize
     puts "我一出生就會講話喔"
-  dn
+  end
 end
 
 kitty = Cat.new
