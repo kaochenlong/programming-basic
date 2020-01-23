@@ -1,7 +1,5 @@
 # 程式設計入門
 
-Reference: https://ihower.hackpad.com/Programming-Basics-R74JqaVHmnF
-
 ## 簡介
 
 ### 高見龍
@@ -10,7 +8,7 @@ Reference: https://ihower.hackpad.com/Programming-Basics-R74JqaVHmnF
 
 ### 聯絡
 
-* Blog: http://kaochenlong.com/
+* Blog: https://kaochenlong.com/
 * Twitter: https://twitter.com/eddiekao
 * Facebook: https://www.facebook.com/eddiekao
-* contact: eddie @ 5xruby.tw
+* contact: eddie@5xruby.tw
