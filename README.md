@@ -2,13 +2,13 @@
 
 ## 內容
 
-- [輸入、輸出](./tree/master/001-input-and-output)
-- [流程控制](./tree/master/002-flow-control)
-- [迴圈](./tree/master/003-loop)
-- [陣列](./tree/master/004-array)
-- [Hash 及 Dictionary](./tree/master/005-hash-and-dictionary)
-- [函式與方法](./tree/master/006-function-and-method)
-- [物件](./tree/master/007-object)
+- [輸入、輸出](001-input-and-output/README.md)
+- [流程控制](002-flow-control/README.md)
+- [迴圈](003-loop/README.md)
+- [陣列](004-array/README.md)
+- [Hash 及 Dictionary](005-hash-and-dictionary/README.md)
+- [函式與方法](006-function-and-method/README.md)
+- [物件](007-object/README.md)
 
 ### 高見龍
 
