@@ -6,9 +6,9 @@
 
 ## 定義及使用
 
-* 命名慣例與變數類似
-* 儘量以程式碼可讀性為前提
-* Ruby 常常會省略小括號
+* 命名慣例與變數類似。
+* 儘量以程式碼可讀性為前提。
+* Ruby 常常會省略小括號。
 
 ```ruby
 # Ruby
@@ -31,7 +31,7 @@ sayHelloTo("見龍", age: 18)        // 注意這裡 age 要連名帶姓的叫
 
 ## 回傳值
 
-* Ruby 常常會省略 return，最後一行的執行結果預設就是其回傳值
+* Ruby 常常會省略 `return`，最後一行的執行結果預設就是其回傳值。
 
 ```ruby
 # Ruby
@@ -54,16 +54,17 @@ print(bmiCalculator(1.72, weight: 70))    # 身高 1.72 公尺，體重 70 公�
 
 ## 引入其它程式
 
-* Ruby 使用 `require` 或 `load` 來載入其它程式檔案
-* Swift 使用 `import` 來載入其它程式檔案
+* Ruby 使用 `require` 或 `load` 來載入其它程式檔案。
+* Swift 使用 `import` 來載入其它程式檔案。
 
 ## 特別補充
 
-* Ruby 有種東西叫 Block
-* 有大括號 `{ ... }` 與 `do ... end` 兩種型式，但有微妙的差別([參考資料](http://kaochenlong.com/2011/06/03/do-end-vs-braces/))
-* 在 Ruby 裡面非常常用，一定要理解使用方式!!
+* Ruby 有種東西叫 Block。
+* 有大括號 `{ ... }` 與 `do ... end` 兩種型式，但有微妙的差別([參考資料](http://kaochenlong.com/2011/06/03/do-end-vs-braces/))。
+* Block 在 Ruby 裡的使用頻率很高，一定要理解使用方式！
 
 ## 練習題
-1. 實作一個 function 可以輸入陣列，回傳總和
-2. 實作一個 function 回傳階乘數 (請用遞迴)
+
+1. 實作一個 function 可以輸入陣列，回傳總和。
+2. 實作一個 function 回傳階乘數 (請用遞迴)。
 
