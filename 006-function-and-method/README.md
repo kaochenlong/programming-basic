@@ -1,6 +1,6 @@
-# Function 及 Method
+# 函式（Function）與方法（Method）
 
-## Function 跟 Method
+## 函式與方法
 
 * 有什麼不同?
 
