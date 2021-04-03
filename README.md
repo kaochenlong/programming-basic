@@ -12,11 +12,11 @@
 
 ### 高見龍
 
-* [五倍紅寶石](https://5xruby.tw/) 紅寶石鑑定商
+* [五倍紅寶石專業程式教育機構](https://5xruby.tw/) 負責人
 
 ### 聯絡
 
 * Blog: https://kaochenlong.com/
 * Twitter: https://twitter.com/eddiekao
 * Facebook: https://www.facebook.com/eddiekao
-* contact: eddie@5xruby.tw
+* contact: eddie@5xcampus.com
